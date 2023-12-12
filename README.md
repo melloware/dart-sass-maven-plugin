@@ -6,7 +6,7 @@
 
 A Maven plugin that allows to compile SASS using Dart Sass
 
-<img height="48" src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg">
+<img height="48" src="https://rawgit.com/sass/sass-site/master/source/assets/img/logos/logo.svg">
 
 ## Usage
 ```xml
